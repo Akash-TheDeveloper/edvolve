@@ -1,0 +1,21 @@
+.container{
+
+    padding: 50px 100px;
+}
+
+.form-control{
+
+    width: 50%;
+    margin: 40px auto;
+}
+
+.table-container{
+
+    width: 50%;
+    margin: 40px auto;
+}
+
+.table tr{
+
+    padding: 40px 0;
+}
